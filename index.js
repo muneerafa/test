@@ -2,7 +2,7 @@ function mooncakeSays(message) {
   let mooncake = '(o.o)';
 
   if ( !message ) {
-    console.log('cake')
+    console.log('cake moon')
     return `${mooncake} chookity?`;
   }
 
