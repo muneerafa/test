@@ -3,9 +3,9 @@ function mooncakeSays(message) {
 
   if ( !message ) {
     console.log('cake moon')
-    return `{mooncake} chookity?`;
+    return `${mooncake} chookity?`;
   }
-    console.log('moon')
+    console.log('moon cake')
   return `${mooncake} ${message}`;
 }
 
