@@ -8,4 +8,4 @@ function mooncakeSays(message) {
   return `${mooncake} ${message}`;
 }
 
-module.exports.mooncakeSays = mooncakeSays;;
+module.exports.mooncakeSays = mooncakeSays
