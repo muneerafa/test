@@ -5,7 +5,7 @@ function mooncakeSays(message) {
     console.log('cake moon')
     return `${mooncake} chookity?`;
   }
-
+    console.log('moon')
   return `${mooncake} ${message}`;
 }
 
