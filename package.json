@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/colbyfayock/demo-github-actions.git"
   },
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "muneera",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/colbyfayock/demo-github-actions/issues"
